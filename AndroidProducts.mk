@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_blossom.mk
+    $(LOCAL_DIR)/shrp_blossom.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_blossom-eng
+    shrp_blossom-eng
